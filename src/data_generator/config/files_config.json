@@ -1,0 +1,15 @@
+{
+    "USERS_FILE":{
+        "file_name": "Users.csv",
+        "rows": 1000
+    },
+    "PRODUCTS_FILE":{
+        "file_name": "Products.csv",
+        "rows": 1000
+    },
+    "TRANSACTIONS_FILE":{
+        "file_name": "Transactions.csv",
+        "rows": 1000
+    },
+    "OUTPUT_PATH": "./data"
+}
