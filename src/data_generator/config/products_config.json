@@ -1,0 +1,204 @@
+{
+  "PRODUCTS": {
+    "Smartphones": {
+      "Flagship": [
+        "UltraPhone 12",
+        "Zenith Alpha",
+        "Nova Fold",
+        "Quantum One",
+        "EdgePrime X",
+        "Pulse Max",
+        "HyperNova S",
+        "Titan X Pro"
+      ],
+      "Mid-range": [
+        "EdgePrime 15",
+        "Pulse Max",
+        "FlexiPhone 9",
+        "CoreOne 5G",
+        "Vortex A3"
+      ],
+      "Budget": [
+        "BasicPhone 4",
+        "EcoSmart 3",
+        "ValueX Lite",
+        "MiniNova 2",
+        "SimpleCall"
+      ],
+      "Foldable": [
+        "Nova Fold",
+        "FlexiFold Z",
+        "DuoScreen Pro",
+        "FoldMax Ultra",
+        "FlipX"
+      ],
+      "Gaming": [
+        "GameX Turbo",
+        "PowerPlay Z",
+        "NeoGamer 5",
+        "BoostPhone X",
+        "TurboCore"
+      ]
+    },
+    "Laptops": {
+      "Ultrabook": [
+        "TechCore Ultrabook",
+        "Nebula Air",
+        "SlimPro X",
+        "LiteBook 13",
+        "AirNova"
+      ],
+      "Gaming": [
+        "HyperBook Z5",
+        "FusionBook 360",
+        "GamerPro X",
+        "BladeRunner 15",
+        "StormFire"
+      ],
+      "Business": [
+        "PixelPro X14",
+        "BizMate 7",
+        "OfficeFlex 13",
+        "ProDesk Ultra",
+        "WorkHub 15"
+      ],
+      "2-in-1": [
+        "FlexiTab 360",
+        "SwitchBook Pro",
+        "DualMode X",
+        "SlideMate",
+        "Convertible One"
+      ],
+      "Workstation": [
+        "PowerCore WS",
+        "MegaWork 17",
+        "ProStation X",
+        "UltraCalc 15",
+        "DataForge"
+      ]
+    },
+    "Wearables": {
+      "Fitness Tracker": [
+        "SmartFit Band",
+        "PulseWatch S",
+        "FitTrack Pro",
+        "MoveSense",
+        "StepMaster"
+      ],
+      "Smartwatch": [
+        "HealthSync 2.0",
+        "AuraBand Elite",
+        "TimeCore X",
+        "WatchPlus",
+        "PulseTime"
+      ],
+      "Health Monitor": [
+        "HeartSense",
+        "OxyTrack",
+        "SleepWell Pro",
+        "BodyStat",
+        "VitalWatch"
+      ],
+      "VR Headset": [
+        "VisionX VR",
+        "Immersa Pro",
+        "VirtualCore",
+        "DreamView",
+        "HoloGear"
+      ],
+      "Smart Glasses": [
+        "SeeClear",
+        "GlassPro",
+        "VisionPlus",
+        "AugmentX",
+        "LensMate"
+      ]
+    },
+    "Smart Home": {
+      "Security": [
+        "HomeGuard Cam",
+        "SecureLock Smart Lock",
+        "WatchDog Sensor",
+        "SafeHome Alarm",
+        "EntrySafe"
+      ],
+      "Lighting": [
+        "LightWave Smart Bulb",
+        "GlowPro",
+        "LumiMax Strip",
+        "BrightHome",
+        "EcoLight"
+      ],
+      "Climate Control": [
+        "ThermoSense Thermostat",
+        "AirFlow Pro",
+        "CoolBreeze",
+        "HeatMaster",
+        "ClimateX"
+      ],
+      "Entertainment": [
+        "EchoSphere Speaker",
+        "SoundBlast",
+        "CinemaLight",
+        "HomeTheater Pro",
+        "BassBoost"
+      ],
+      "Appliances": [
+        "SmartClean Vacuum",
+        "RoboCooker",
+        "WashMate 3000",
+        "CoolFreeze",
+        "SmartOven"
+      ]
+    },
+    "Accessories": {
+      "Chargers": [
+        "NeoCharger 10",
+        "ChargeX Wireless Charger",
+        "PowerBoost",
+        "QuickCharge Pro",
+        "VoltMax"
+      ],
+      "Audio": [
+        "XSpeaker 200",
+        "SoundMax Earbuds",
+        "BassBoost Headphones",
+        "ClearTone",
+        "EchoPods"
+      ],
+      "Cables": [
+        "PulseCable 8",
+        "FlexiCable USB-C",
+        "DataLine Pro",
+        "ChargeWire",
+        "SyncCable"
+      ],
+      "Cases": [
+        "ShieldCase Pro",
+        "FlexiCover",
+        "ArmorShell",
+        "GripCase",
+        "SlimGuard"
+      ],
+      "Docks": [
+        "Quantum Dock",
+        "UltraDock Hub",
+        "PowerCore Battery Pack",
+        "LinkStation",
+        "DockMaster"
+      ]
+    }
+  },
+  "DATE_FORMATS": [
+    "%Y-%m-%d",
+    "%d-%m-%Y",
+    "%m-%d-%Y"
+  ],
+  "CURRENCIES": [
+    "RON",
+    "EUR",
+    "USD"
+  ],
+  "MAX_PRICE": 10000,
+  "MAX_QUANTITY": 100
+}

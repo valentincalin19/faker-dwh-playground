@@ -1,8 +1,5 @@
 from faker import Faker
-import csv
-import os
 import random
-from datetime import datetime, date
 from src.data_generator.base_generator import BaseGenerator
 from src.data_generator.utils.data_corruption import DataCorruption
 from src.data_generator.utils.config_loader import ConfigLoader
@@ -12,7 +9,7 @@ class User:
     def __init__(
         self, user_id: str, first_name: str, last_name: str, email: str, signup_date: str, 
         country: str, city: str, birth_date: str, is_active: bool, loyalty_points: int
-        ) -> None:
+    ) -> None:
         self.user_id = user_id
         self.first_name = first_name
         self.last_name = last_name
@@ -79,15 +76,15 @@ class UserGenerator(BaseGenerator):
     def inject_errors(self, user: User) -> User:
         """Apply random corruptions to selected user fields."""
         corruption_map = {
-            "first_name": self.data_corruption.corrupt_user_str,
-            "last_name": self.data_corruption.corrupt_user_str,
-            "email": self.data_corruption.corrupt_user_email,
-            "signup_date": self.data_corruption.corrupt_user_date,
-            "country": self.data_corruption.corrupt_user_str,
-            "city": self.data_corruption.corrupt_user_str,
-            "birth_date": self.data_corruption.corrupt_user_date,
-            "is_active": self.data_corruption.corrupt_user_is_active,
-            "loyalty_points": lambda d: self.data_corruption.corrupt_user_loyalty_points(d, self.config["MAX_LOYALTY_POINTS"])
+            "first_name": self.data_corruption.corrupt_string,
+            "last_name": self.data_corruption.corrupt_string,
+            "email": self.data_corruption.corrupt_email,
+            "signup_date": self.data_corruption.corrupt_date,
+            "country": self.data_corruption.corrupt_string,
+            "city": self.data_corruption.corrupt_string,
+            "birth_date": self.data_corruption.corrupt_date,
+            "is_active": self.data_corruption.corrupt_is_active,
+            "loyalty_points": lambda d: self.data_corruption.corrupt_integer(d, self.config["MAX_LOYALTY_POINTS"])
         }
 
         attrs_to_corrupt = random.sample(list(corruption_map.keys()), k=random.randint(1, len(corruption_map)))

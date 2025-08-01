@@ -4,6 +4,7 @@ import os
 from src.data_generator.utils.config_loader import ConfigLoader
 from src.data_generator.base_generator import BaseGenerator
 from src.data_generator.users_generator import UserGenerator
+from src.data_generator.products_generator import ProductGenerator
 
 
 class DataGenerator:
@@ -28,3 +29,4 @@ if __name__ == "__main__":
     data_generator = DataGenerator()
 
     data_generator.write_csv(UserGenerator(), "USERS_FILE")
+    data_generator.write_csv(ProductGenerator(), "PRODUCTS_FILE")

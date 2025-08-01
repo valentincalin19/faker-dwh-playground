@@ -9,35 +9,35 @@ class DataCorruption:
     def _should_corrupt(self) -> bool:
         return self.data_utils.choose_random("low")
 
-    def corrupt_user_str(self, user_str: str) -> str | None:
+    def corrupt_string(self, text: str) -> str | None:
         """Insert random chars and randomly change case, or return None."""
         if self._should_corrupt():
             return None
 
         if self._should_corrupt():
             for char in self.data_utils.select_random_chars():
-                user_str = self.data_utils.insert_randomly(user_str, char)
+                text = self.data_utils.insert_randomly(text, char)
 
         if self._should_corrupt():
-            user_str = user_str.lower() if random.choice([True, False]) else user_str.upper()
+            text = text.lower() if random.choice([True, False]) else text.upper()
 
-        return user_str
+        return text
 
-    def corrupt_user_email(self, user_email: str) -> str | None:
+    def corrupt_email(self, email: str) -> str | None:
         """Replace '@' with special char and insert random chars, or return None."""
         if self._should_corrupt():
             return None
 
         if self._should_corrupt():
-            user_email = user_email.replace("@", random.choice(["$", "#", "&"]))
+            email = email.replace("@", random.choice(["$", "#", "&"]))
 
         if self._should_corrupt():
             for char in self.data_utils.select_random_chars():
-                user_email = self.data_utils.insert_randomly(user_email, char)
+                email = self.data_utils.insert_randomly(email, char)
 
-        return user_email
+        return email
 
-    def corrupt_user_date(self, user_date: str) -> str | None:
+    def corrupt_date(self, date_str: str) -> str | None:
         """Apply random date corruptions or return None."""
         if self._should_corrupt():
             return None
@@ -53,27 +53,33 @@ class DataCorruption:
         # Randomly apply 1 to all corruptions
         for corruption in random.sample(corruptions, k=random.randint(1, len(corruptions))):
             try:
-                user_date = corruption(user_date)
+                date_str = corruption(date_str)
             except re.error as e:
                 print(f"Warning: regex corruption failed with error: {e}")
 
-        return user_date
+        return date_str
     
-    def corrupt_user_is_active(self, user_is_active: bool) -> bool | str | None:
+    def corrupt_is_active(self, is_active: bool) -> bool | str | None:
         """Change from bool to string or return None."""
         if self._should_corrupt():
             return None
         
         if self._should_corrupt():
-            return str(user_is_active)
+            return f"'{is_active}'"
         
-    def corrupt_user_loyalty_points(self, user_loyalty_points: int, max_points: int) -> int | None:
+        return is_active
+        
+    def corrupt_integer(self, amount: int, max_amount: int) -> int | None:
         """Change from valid range or return None."""
         if self._should_corrupt():
             return None
 
         if self._should_corrupt():
-            return user_loyalty_points + max_points
+            return amount + max_amount
+        elif self._should_corrupt():
+            return amount - max_amount
+        
+        return amount
 
 
 

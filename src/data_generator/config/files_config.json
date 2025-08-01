@@ -1,15 +1,15 @@
 {
     "USERS_FILE":{
         "file_name": "Users.csv",
-        "rows": 100000
+        "rows": 100
     },
     "PRODUCTS_FILE":{
         "file_name": "Products.csv",
-        "rows": 100000
+        "rows": 100
     },
     "TRANSACTIONS_FILE":{
         "file_name": "Transactions.csv",
-        "rows": 100000
+        "rows": 100
     },
     "OUTPUT_PATH": "./data"
 }

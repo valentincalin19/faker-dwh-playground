@@ -21,7 +21,7 @@ class DataUtils:
         return random.random() < threshold
 
     @staticmethod
-    def select_random_chars(k: int = None) -> List[str]:
+    def select_random_chars(k: int | None = None) -> List[str]:
         """Select a list of random special characters."""
         chars_pool = ["!", "~", "$", "^", "&", "*", "()", "@"]
         if k is None:

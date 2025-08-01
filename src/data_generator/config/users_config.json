@@ -1,20 +1,110 @@
 {
   "COUNTRIES": {
-    "Romania": ["Bucuresti", "Cluj-Napoca", "Iasi", "Timisoara", "Brasov"],
-    "Germany": ["Berlin", "Munich", "Hamburg", "Cologne", "Frankfurt"],
-    "France": ["Paris", "Lyon", "Marseille", "Toulouse", "Nice"],
-    "Italy": ["Rome", "Milan", "Naples", "Turin", "Florence"],
-    "USA": ["New York", "Los Angeles", "Chicago", "Houston", "Miami"],
-    "Spain": ["Madrid", "Barcelona", "Seville", "Valencia", "Bilbao"],
-    "UK": ["London", "Manchester", "Birmingham", "Leeds", "Glasgow"],
-    "Canada": ["Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa"],
-    "Poland": ["Warsaw", "Krakow", "Gdansk", "Wroclaw", "Poznan"],
-    "Netherlands": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Eindhoven"],
-    "Sweden": ["Stockholm", "Gothenburg", "Malmo", "Uppsala", "Vasteras"],
-    "Australia": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide"],
-    "Brazil": ["Sao Paulo", "Rio de Janeiro", "Brasilia", "Salvador", "Fortaleza"],
-    "Japan": ["Tokyo", "Osaka", "Kyoto", "Nagoya", "Sapporo"],
-    "South Africa": ["Johannesburg", "Cape Town", "Durban", "Pretoria", "Port Elizabeth"]
+    "Romania": [
+      "Bucuresti",
+      "Cluj-Napoca",
+      "Iasi",
+      "Timisoara",
+      "Brasov"
+    ],
+    "Germany": [
+      "Berlin",
+      "Munich",
+      "Hamburg",
+      "Cologne",
+      "Frankfurt"
+    ],
+    "France": [
+      "Paris",
+      "Lyon",
+      "Marseille",
+      "Toulouse",
+      "Nice"
+    ],
+    "Italy": [
+      "Rome",
+      "Milan",
+      "Naples",
+      "Turin",
+      "Florence"
+    ],
+    "USA": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Houston",
+      "Miami"
+    ],
+    "Spain": [
+      "Madrid",
+      "Barcelona",
+      "Seville",
+      "Valencia",
+      "Bilbao"
+    ],
+    "UK": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Leeds",
+      "Glasgow"
+    ],
+    "Canada": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Calgary",
+      "Ottawa"
+    ],
+    "Poland": [
+      "Warsaw",
+      "Krakow",
+      "Gdansk",
+      "Wroclaw",
+      "Poznan"
+    ],
+    "Netherlands": [
+      "Amsterdam",
+      "Rotterdam",
+      "The Hague",
+      "Utrecht",
+      "Eindhoven"
+    ],
+    "Sweden": [
+      "Stockholm",
+      "Gothenburg",
+      "Malmo",
+      "Uppsala",
+      "Vasteras"
+    ],
+    "Australia": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth",
+      "Adelaide"
+    ],
+    "Brazil": [
+      "Sao Paulo",
+      "Rio de Janeiro",
+      "Brasilia",
+      "Salvador",
+      "Fortaleza"
+    ],
+    "Japan": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto",
+      "Nagoya",
+      "Sapporo"
+    ],
+    "South Africa": [
+      "Johannesburg",
+      "Cape Town",
+      "Durban",
+      "Pretoria",
+      "Port Elizabeth"
+    ]
   },
   "DATETIME_FORMATS": [
     "%Y-%m-%dT%H:%M:%S%z",

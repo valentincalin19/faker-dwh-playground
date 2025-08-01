@@ -1,0 +1,101 @@
+product_id,product_name,category,subcategory,price,currency,created_at,stock_quantity,is_active
+97705b6f-1fcd-426b-8c86-927e233978ff,SlimGuard,Accessories,Cases,6800,EUR,02-02-2022,84,True
+bb361788-57ad-49c9-b5b6-6e65f85b5f5e,SmartFit Band,Wearables,Fitness Tracker,5951,USD,29-03-2022,92,False
+437503d6-ab42-4c9e-a0ca-fdfccf44c07c,MoveSense,Wearables,Fitness Tracker,3445,EUR,2024-09-02,90,False
+9a290ebf-4b35-492f-b8aa-82754bac9999,ClimateX,Smart Home,Climate Control,3178,USD,11-11-2021,99,False
+997b9c2f-1671-4943-be7e-bcbf780365bf,FlexiCable USB-C,Accessories,Cables,4958,RON,06-20-2021,3,False
+a5b512cd-4917-431d-8134-3bf55b21612e,StormFire,Laptops,Gaming,6462,RON,2024-08-18,40,True
+458e9219-272e-45f4-a57d-928953b597a6,PixelPro X14,Laptops,Business,7761,RON,2021-12-09,85,False
+cb8dd032-4887-4c42-8876-527a0264df21,PowerBoost,Accessories,Chargers,8529,USD,10-29-2023,29,False
+c2164c4e-8d93-477d-ae1a-5b4a8e8bcf5d,MiniNova 2,smartphones,Budget,6614,USD,2021-08-03,73,False
+79f34984-2742-472f-ba62-a192b5badce1,SmartFit Band,Wearables,Fitness Tracker,9453,USD,12-06-2021,21,
+09a3b0e2-13ab-49b1-bb20-659e8742baed,SecureLock Smart Lock,Smart Home,Security,2964,USD,09-05-2023,8,False
+27e078ea-eb20-4cb5-ac8f-122866bea74a,PixelPro X14,Laptops,Business,2127,RON,23-10-2022,11,False
+beb524ef-be3e-40e9-8424-dce4b997cd64,ChargeWire,Accessories,Cables,3539,USD,2021-04-24,67,False
+6c697baf-1a37-4cb5-b021-a783c34d8a85,AirNova,Laptops,Ultrabook,9909,USD,2022-01-29,96,False
+21b1a409-cae2-4d7a-9c74-4178cb5b6147,FoldMax Ultra,Smartphones,Foldable,7389,USD,2024-09-08,90,False
+e4e9d4a1-ad49-4dfc-9f71-cc1431653e24,ShieldCase Pro,Accessories,Cases,3117,,05-14-2021,80,False
+548fe602-da17-436d-aef6-f5985f3f7aaf,NeoGamer 5,Smartphones,Gaming,8808,RON,05-03-2025,78,False
+3335d4ae-d9b6-47de-8df3-365d2b0c9f32,FlexiCover,Accessories,Cases,2302,USD,,98,False
+bd2d5429-ba71-4063-b3e4-9140f9dbba91,StepMaster,Wearables,Fitness Tracker,8357,RON,2024-08-29,33,False
+54ef7cc7-07ca-4a3a-9e34-50647b77b810,GamerPr*o X,Laptops,Gaming,9510,RON,08-31-2024,52,False
+dddae3db-80c7-4876-8364-9bd2484b71bf,SafeHome Alarm,Smart Home,Sec@urity,5224,RON,03-12-2021,70,False
+181d54e8-0207-4fb2-8ac3-7d050dc4a310,DataLine Pro,Accessories,Cables,24,RON,2024-08-02,94,'False'
+681f983a-bfd4-4afe-870e-37044aece42d,BassBoost,Smart Home,Entertainment,1304,USD,05-05-2024,64,False
+343f657e-7438-43ed-b9ea-2b5417873498,EchoSphere Speaker,Smart Home,Entertainment,2282,USD,04-01-2022,99,False
+bf58aafb-062c-46a1-a1d5-78f3910b4559,PowerBoost,Accessories,Chargers,3657,RON,2022-06-20,22,True
+8c88de7a-5e74-4378-a870-c00748ea650b,WashMate 3000,Smart Home,Appliances,775,USD,12-26-2020,24,False
+9d1e80bc-55b4-4d03-8a00-dbff74715daf,PowerBoost,Accessories,Chargers,9495,USD,23-01-2025,44,True
+480956a9-2608-4b80-93fd-66dc04273cf6,SeeClear,Wearables,Smart Glasses,-436,U*SD,2024-01-18,53,False
+5cc1de64-1f1f-4efd-b718-a68c62f190ef,EntrySafe,Smart Home,Security,8228,RON,11-05-2020,77,True
+4861e733-a48f-42f0-97c5-719da3ecd57a,WatchDog Sensor,Smart Home,Security,3055,RON,2022-10-21,54,False
+d87ece74-95b0-4957-a90a-b8a1e8171b75,ThermoSense Thermostat,Smart Home,Climate Control,4517,RON,21-12-2023,93,False
+7025559d-ff21-448d-9dbf-2467e7b533d8,HyperNova S,Smartphones,Flagship,5229,EUR,2025-03-28,85,False
+252f30db-9a4f-4051-99f5-2f0caa0a9723,ProStation X,Laptops,Workstation,6931,RON,2020-11-26,45,False
+5d542a78-e1c4-46a4-b696-722bb213e040,TimeCore X,Wearables,Smartwatch,8779,RON,10-22-2021,28,False
+9446bbb5-b71d-41bc-85e0-331200ceec7d,EcoLight,Smart Home,Lighting,1502,USD,24-06-2021,26,False
+e848edfd-83ee-43dc-97c2-a9b4f9c0311a,SmartClean Vacuum,Smart Home,Appliances,3930,USD,10-06-2021,45,False
+665ab9d3-cdf2-4782-a12b-7687f096080e,SoundMax Earbuds,Accessories,Audio,579,RON,2023-05-15,111,False
+cb3aa271-6055-495a-92e3-104bb4cbada0,FoldMax Ultra,Smartphones,Foldable,2348,USD,2021-10-05,,False
+67ea3f5b-4f12-4dc0-840b-8b6be5a6a041,SafeHome Alarm,Smart Home,Security,5242,EUR,02-07-2025,24,False
+01ef3cd7-3fe8-4c54-ac45-a6e14f3b1514,PulseCab()le 8,Accessories,Cables,5816,USD,11-03-2025,14,True
+1a81b935-270c-41c1-b563-b1c03cb7ff8e,ChargeX Wireless Charger,Accessories,,6874,ron,27-04-2021,40,
+0bcb9a44-fcbf-4e8d-8d4d-8d0269867d06,Pulse Max,SMARTPHONES,Mid-range,6644,EUR,07-28-2022,15,False
+2bdb9d03-1ac7-4dba-a140-f60679d92fe6,NeoGamer 5,Smartphones,Gaming,6546,EU~R,2022-01-04,80,False
+bb08f1be-d348-49dc-b879-d8d9e305f8ee,WatchPlus,Wearables,Smartwatch,6779,RON,2024-08-09,67,False
+cac27c2e-3a92-425e-a661-ea21db980fe5,WashMate 3000,Smart Home,Appliances,8846,USD,2024-12-19,58,False
+1655bdb1-fc8e-437b-ba5b-1ceb3ed18807,LumiMax Strip,Smart Home,Lighting,57,RON,06-14-2024,54,False
+89d90bd2-a123-4920-9a08-e0b6005fa953,FlexiFold Z,Smar&@$tphones,Foldable,4567,USD,2021-10-09,95,False
+291952ef-45b0-4e97-bdd7-5f64d4c51770,FitTrack Pro,Wearables,Fitness Tracker,1125,USD,25-01-2022,91,False
+27bf3765-1d16-4096-8088-fc78ff226c05,SimpleCall,Smartphones,Budget,825,RON,19-05-2024,48,False
+d6885aab-1abf-4ee5-aa11-6f94944eeac6,WorkHub 15,Laptops,Business,751,RON,08-10-2020,68,False
+174fb10c-e95d-42e3-9f2f-0a680f2edc34,AugmentX,Wearables,Smart Glasses,7660,USD,2022-11-10,79,False
+3390f6a4-7a70-422a-a9d7-e7b7c0a5ffe3,SafeHome Alarm,Smart Home,Security,59,RON,06-13-2021,11,True
+e6a9cdcd-2b93-4695-b82f-bbfc674f3f21,DockMaster,Accessories,Docks,8450,EUR,12-31-2021,82,False
+7427b4cf-8313-42ff-a3bd-7eb8bdf5717c,VisionPlus,Wearables,Smart Glasses,2315,RON,2021-10-11,41,False
+7655be8d-eaf4-48e3-9161-7de28598c79c,StepMaster,Wearables,Fitness Tracker,6973,RON,05-15-2022,70,False
+a3796070-2a67-47c9-a50d-f6c826198a8c,OxyTrack,Wearables,Health Monitor,1402,EUR,15-08-2021,75,False
+37f5c552-a304-47ce-a378-c04c619b7341,FlexiTab 360,Laptops,()2-in-1,3382,RON,04-17-2022,82,False
+c397bc61-d3e4-4497-abd0-8aecf1035d32,OxyTrack,Wearables,Health Monitor,5526,RON,2021-01-01,31,False
+06bc7014-364c-4168-9df4-5e6ddb52a773,TechCore Ultrabook,Laptops,Ultrabook,7182,RON,11-04-2022,84,True
+bc772787-7a3b-4b30-9ded-782ae971e74e,SeeClear,Wearables,Smart Glasses,-401,EUR,2021-07-27,87,False
+9c87e29f-04b8-4782-896e-d4d319a7f569,PulseWatch S,Wearables,Fitness Tracker,7468,USD,29-11-2021,53,False
+22997a0b-0786-4fb5-8293-6a61cd8c2803,AirFlow Pro,Smart Home,Climate Control,507,RON,27-09-2024,74,False
+177dcc7c-488b-4f4d-a9c2-399290e791af,AirFlow Pro,Smart Home,Climate Control,3218,EUR,21-01-2025,27,False
+54afdb82-c5f5-4b86-85a1-654f722995df,,Wearables,VR Headset,4593,EUR,27-08-2024,16,False
+a12857ec-3f48-4ff2-8a0e-6cfbdd4cc7c7,EcoSmart 3,Smartphones,Budget,4363,EUR,2025-04-18,3,False
+167c85fe-8005-4151-86c3-60eeb8837c92,BladeRunner 15,Laptops,Gaming,7419,RON,04-11-2023,13,False
+92d3bb86-3716-4a3c-92f2-3437ede88daa,HeatMaster,Smart Home,Climate Control,2494,RON,2022-06-19,60,False
+5a0ea65b-1219-40c9-acc1-f4f8e68280bf,Titan X Pro,Smartphones,Flagsh~ip,18568,RON,05-08-2022,54,True
+32ddb93d-3385-4102-88c7-e9df1d600db7,BrightHome,Smart Home,Lighting,9927,USD,2023-05-15,100,True
+32603946-0ecf-4e1a-88d0-2a109c9cb283,BrightHome,Smart Home,Lighting,7837,EUR,21-06-2022,41,False
+f15315d0-deb2-474f-8ded-a6f0d72ab2b5,ThermoSense Thermostat,Smart Hom&e,Climate Control,5722,USD,04-08-2024,26,True
+e5de359b-76c1-4195-b980-d454d35905c7,DockMaster,Accessories,Docks,5096,EUR,2020-12-02,38,False
+5cf3e10c-d6cf-4b61-9712-de810eb7cfdd,TurboCore,Smartphones,Gaming,9672,RON,2024-12-22,60,False
+937759ec-132e-48da-bd28-d220b63f0931,SoundMax Earbuds,Accessories,Audio,3641,USD,01-16-2025,2,False
+4ddd1d2a-ad6f-4cc7-b843-fd7208a1aecd,EcoLight,Smart Home,Lighting,7028,RON,16-08-2023,5,True
+30e27d61-78f5-432b-b5fa-8f12ee1445f7,SlimGuard,Accessories,Cases,6816,RON,24-05-2025,64,False
+b01fb904-ef9e-4da4-93d3-f542626a1239,,Smart Home,Security,5582,USD,15-08-2024,,True
+294406dc-b3dc-4f78-918b-36762ea51fac,FlexiCover,Accessories,Cases,1911,RON,12-30-2020,97,False
+8658c077-281e-4409-a5c1-643d900bc604,VirtualCore,,VR Headset,9341,RON,13-01-2024,13,False
+0b221496-515b-4b73-a59c-511d8293d2fc,BrightHome,Smart Home,Lighting,3997,USD,2020-11-07,72,False
+1d81c4a2-e7b2-42c8-846c-427cd45cd2e1,BladeRunner 15,Laptops,Gaming,8505,USD,12-04-2021,10,False
+4f2fbf95-31cf-4a82-8949-29be0b7b84d1,BizMate 7,Laptops,Business,2914,USD!,03-09-2023,44,False
+cb1d9d35-5b18-4edb-b2a4-9d941a094003,WorkHub 15,Laptops,Business,2462,RON,2020-08-09,3,False
+47c55ded-1b93-400f-b650-58d7d519e7e8,ProDesk Ultra,Laptops,Business,17595,EUR,12-04-2024,51,False
+de49b227-db15-4e5e-9abc-07bbb34a7a12,PowerCore WS,Laptops,Workstation,9709,RON,05-08-2024,88,False
+e5ea6094-398f-4330-abf8-8ff83709cbf3,EchoSphere Speaker,Smart Home,Entertainment,5876,RON,06-12-2025,33,False
+7d84b14d-0997-45b6-b726-454993dc105a,ClimateX,Smart Home,Climate Control,17148,,2024-05-10,163,True
+8f3edc47-9424-459b-a451-3700730c23c9,ThermoSense Thermostat,Smart Home,Climate Control,355,RON,2023-06-01,103,False
+cb0629a3-a3ec-4ffa-b89a-f050f10221f5,SmartOven,Smart Home,Appliances,9428,USD,21-07-2021,60,False
+92e98b4c-ac3e-4943-882f-7f87e15c54b6,BasicPhone 4,Smartphones,Budget,7819,USD,2021-05-17,32,False
+d63ec40d-70f3-4a9c-a44d-2176b9a94a16,AirNova,Laptops,Ultrabook,9854,EUR,2024-06-30,67,False
+9c492264-47c3-4fd3-88a3-35b516731e5c,ClearTone,Accessories,Audio,3088,RON,2024-10-01,99,False
+d8d2303c-bae5-4d25-998e-91e3f90fae10,PulseCable 8,Accessories,Cables,180,RON,2023-07-31,53,False
+afdd969b-218c-44b6-ad56-5036784dfe01,MoveSense,Wearables,Fitness Tracker,1362,RON,20-10-2020,,False
+034bf6c2-8373-4973-ab03-ca6a49d3f6d9,SlimPro X,Laptops,,346,USD,03-01-2022,57,False
+d0bf2fea-f4c9-4071-a255-624f7a984317,LumiMax Strip,Smart Home,Lighting,6983,USD,27-11-2020,15,False
+f06bad99-08d1-4385-bcde-3ad9963e8df0,VisionX VR,Wearables,VR Headset,6262,RON,2025-03-23,0,False
+737198ba-9437-4daa-a51e-73f34e874f84,WatchPlus,Wearables,smartwatch,4651,RON,02-10-2024,61,False
+7f814ef8-ab0d-41ab-aeff-ae314834cf92,UltraCalc 15,Laptops,Workst*a~ti*on,382,USD,2022-12-11,10,False
+a3066d12-edb3-4629-a354-e1f7aad842b1,XSpeaker 200,Accessories,^Au!d!io,4937,RON,11-28-2022,70,True
