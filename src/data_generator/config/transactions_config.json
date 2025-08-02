@@ -1,0 +1,24 @@
+{
+  "MAX_PRICE": 10000,
+  "MAX_QUANTITY": 10,
+  "MAX_DISCOUNT": 30,
+  "DATETIME_FORMATS": [
+    "%Y-%m-%d",
+    "%d-%m-%Y",
+    "%m-%d-%Y"
+  ],
+  "CURRENCIES": [
+    "RON",
+    "EUR",
+    "USD"
+  ],
+  "PAYMENT_METHODS": [
+    "Credit card",
+    "Cash"
+  ],
+  "STATUSES": [
+    "Accepted",
+    "Declined",
+    "In progress"
+  ]
+}

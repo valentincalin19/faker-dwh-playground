@@ -1,101 +1,101 @@
 user_id,first_name,last_name,email,signup_date,country,city,birth_date,is_active,loyalty_points
-643498ef-7ddd-467d-9cb9-402f616511b4,Brett,Davis,barbaraher()nan&dez@exa()mple.net,2021-03-08T21:50:16,USA,NEW YORK,1952-07-18,True,21
-0ff1a795-d586-485d-ad14-c8155dec66dd,Edward,Parsons,saguilar@example.net,2019-04-07T08:17:59,France,Toulouse,1978-12-18,True,97
-f2a693d1-965b-4c63-b01e-4b1992ffeecc,Mary,Beasley,nwright@example.org,2017-11-02T04:06:58,,Paris,07-25-1967,True,42
-6884d383-5ae8-4ee3-90b5-aff99065aa74,John,Marshall,alexbuchanan@example.net,2024-01-02T14:56:28,South Africa,Cape Town,1998-11-09,True,63
-52fbabda-9359-4ab3-88f3-33a0283b6605,Christina,Simmons,tylerruiz@example.org,2024-01-05T18:21:36,Sweden,Malmo,04-04-1990,True,2
-671c75cf-1223-4d86-894f-a9793b0cf396,Kristin,Simpson,fishershelby@example.net,"Thu, 22 Dec 2016 02:29:02 ",Sweden,Malmo,04-05-2006,False,62
-64c7f9bc-7b60-40d6-a5c5-871ded5620a2,Jeremy,Spencer,joseph21@example.net,2019-07-10T17:41:10,Canada,Vancouver,1957-11-07,False,24
-89dc6a38-8d0a-4c0a-813b-18a5626c4325,Kevin,Mason,,2017-12-14T12:56:12,Spain,Seville,28-04-1984,False,198
-a4ed8d03-4f2a-4e04-8336-df4322e4d4c0,Laura,Hunt,griffinalbert@example.org,2018-05-26T13:22:50,Poland,Krakow,11-17-1965,False,44
-7e4e5731-dde6-4a30-b3c0-3ca3d0999164,,Harrison,paynekelly@example.net,2017-02-08T09:36:13,Italy,Milan,01-08-1996,False,2
-fb6d298d-1d20-4487-9cdb-e8b54638081b,Michael,Jones,glee@example.net,2016-09-06T05:26:22,Australia,Perth,24-02-1999,False,47
-3f76a3d5-e838-4935-9319-63e893919b5c,Jade,Garcia,thomas34@example.com,"Tue, 28 Mar 2023 16:52:58 ",France,Paris,05-06-1999 Z,True,24
-775009f9-2b7c-4772-8a8d-8e53d48dc59f,Heather,Powers,orichardson@example.net,2022-05-30T08:07:48,Sweden,Uppsala,16-03-1977,True,5
-d758ad95-d29d-4942-95bb-d5542c707baf,Alan,Chapman,ebennett@example.com,2019-04-16T17:32:18,Sweden,Stockholm,2000-06-22,False,67
-ad0bd393-2f29-46df-b656-3341498a1e44,Joseph,Spence,emonroe@example.org,2018-08-29T07:01:32,Japan,Sapporo,01-22-1995,False,61
-eaf87006-88c0-42db-a141-303e1bd9104d,Connie,LOPEZ,dennisenglish@example.org,2018-12-06T23:26:29,Romania,Iasi,06-12-1968,True,84
-56c33ec7-f300-4abb-b226-ec1bcf90969b,Katie,Edwards,mayerpatricia@example.net,2019-11-17 22:14:35,Romania,,02-02-1971,True,48
-3e5258e0-1434-41b0-900f-1a694977a321,Michael,Walker,grahamcaroline@example.net,2016-10-13T02:33:58,Australia,Perth,26-03-1987,False,45
-a1265790-2d3b-4ac5-a01a-c2a6e3bfed12,Jillian,Gonzalez,mendezdawn@example.com,2020-04-22 20:34:23,Poland,Gdansk,08-21-1958,False,86
-c9f973f7-110d-4f74-bb9b-103ecb92f8bf,Michelle,Walker,valerie95@example.com,2022-01-19 00:16:16,Romania,Brasov,1987-06-11,False,27
-05c9f118-2366-46fb-bb7f-31406f489741,James,Hickman,sjohnston@example.com,2015-08-04 09:30:54,Germany,Fra$n~kfurt,1973-05-20,False,15
-5eb0e27e-94e1-41eb-a396-f0d221100a5c,Jacob,Clark,tbush@example.com,2017-11-15 00:48:07,France,Paris,1979-03-13,'False',67
-178e55bc-2a5f-40b4-b33b-df72ae1f99ea,John,Richards,gallegosleonard@example.org,2019-07-05 03:43:01,USA,Los Angeles,1964-10-23,False,49
-9b764f45-e0f7-4210-9203-2b3c675e6441,Sharon,Schultz,ipaul@example.net,2020-08-18 11:05:12,Australia,Melbourne,07-30-1948,True,32
-ccaa9df9-55e5-4aa2-80b3-97615c4c0cf8,Ashley,Johnson,tcarrillo@example.net,2024-12-04 03:08:41,Netherlands,Eindhoven,1957-08-11,False,51
-cbc4efa6-6cc8-429b-92c5-049fa04870c9,Samantha,Cline,dcole@example.org,,Japan,Kyoto,10-02-1996,False,85
-d0cc1c30-2494-4bef-a216-f32240697a15,Howard,Spence,deborahspencer@example.org,2019-05-02 15:10:29,Netherlands,Amsterdam,1975-05-20,False,97
-45b4a831-f3e7-4bea-a910-cb4255c516b3,Lisa,White,bonniemurray@example.com,2025-03-14 11:54:47,Sweden,Malmo,10-01-1991,False,18
-f4865235-d5ab-476d-8ee7-1435aafa4f77,Jose,TURNER,millerdustin@example.com,2021-11-12T15:31:51,France,paris,10-08-2005,False,142
-ef58acf5-3328-4d9a-9f90-661e6dc625e9,Richard,Evans,austin19@example.org,2023-07-17T08:05:35,Japan,TOKYO,16-10-1993,False,72
-5154d24b-52bb-40da-903f-4cb56a531245,Angela,West,elizabethbradley@example.net,"Thu, 11 Feb 2021 06:32:56 ",Canada,Vancouver,07-09-1968,True,31
-cc918209-f2d9-4b04-8f6a-767b5fea27ca,Brett,Ramos,drichardson@example.com,2019-09-15T23:58:36,UK,Manchester,06-11-1972,True,9
-f3f97017-0892-4ba9-997f-9f96c8ad8d15,Rebecca,Wilson,douglasemily@example.org,2018-08-08 03:48:00,It&^^aly,Rome,09-08-1962 GMT+3,False,86
-4603d59e-9143-48c4-ae3f-d43ae6f2804e,Elizabeth,Schmidt,ctanner@example.org,2023-04-23 04:34:47,Poland,Wroclaw,03-30-1967,False,83
-ff3223ea-7721-463d-afe4-6a3c7076eb1a,Julie,Page,greeneamber@example.net,"Wed, 09 Mar 2022 22:20:32 ",Germany,Hamburg,1964-08-17,True,64
-c11eba50-d41e-49c3-a2c3-ebc8674ba779,Amy,Rodriguez,rhodeslaura@example.net,2019-01-15T10:42:22,Italy,Florence,12-24-1978,False,46
-ab27f2a0-f4a5-44db-ab44-dd7c53b81369,Tina,Williams,karendavis@example.org,2017-10-16T13:09:23,Brazil,Fortaleza,02-24-1968,True,10
-38800f24-c680-4d01-9862-494755dd0f62,,Cabrera,william52@example.org,"Sun, 27 Aug 2017 22:46:31 ",Japan,Kyoto,21-10-1974,False,88
-ecc17652-4907-4087-8cd4-257f5911d3f5,Paul,Harris,crystal05@example.net,2018-02-27T13:09:57,Brazil,Rio de Janeiro,1956-12-07,False,9
-00e1812a-24aa-4b2c-82b1-fa4088cb3389,Michael,Mitchell,donnawillis@example.net,2022-05-31 17:14:31,UK,Glasgow,12-07-1976,False,4
-99e25877-0003-4426-a8db-90bfacca141d,Jacob,Fernandez,justinjoseph@example.com,2025-04-13T15:55:49,Sweden,Vasteras,1964-03-02,False,8
-51961650-9f48-41bd-af06-35020d4230d1,Oscar,Walker,jwebb$example.net,2015-08-03 20:51:22,Australia,Sydney,31-03-1990,False,38
-9302efc5-1147-4f3e-91f8-10cd8ac964e1,Paul,Weaver,moorejasmine@example.org,2018-09-14T14:36:06,USA,Chicago,1955-08-31,False,3
-56e9f457-f260-4874-9400-31b893f9ce26,Lisa,Mcdonald,hughesnancy@example.net,2023-06-02T04:22:07,South Africa,Durban,1953-07-29,False,4
-cd3ee9c9-7b7b-403e-ae4c-a39a5be5eae6,James,Allen,cfisher@example.com,"Tue, 15 Feb 2022 14:51:40 ",ROMANIA,Bucuresti,01-26-1950,False,37
-4fd50375-e058-4d57-9afb-df646788ae3b,Dennis^,Powell,jamescombs@example.net,2021-05-25T00:32:24,France,Lyon,1993-11-20,False,32
-a481d9ff-29d2-478e-82e0-4f202256b0f7,Aaron,Wood,harveyangela@example.org,2023-12-20 18:56:51,USA,Los Angeles,1953-02-08,False,25
-383f6885-66c5-44a5-927a-2aa6840bebbe,Rebecca,Webb,wendy83@example.org,"Sun, 17 Apr 2022 05:26:31 ",Sweden,Uppsala,05-28-1950,True,52
-ba7aa1d1-ae75-41fe-8c2f-e1125424e73a,Douglas,Underwood,richardhall@example.net,"Wed, 20 Sep 2017 14:06:25 ",Netherlands,Amsterdam,22-04-1950,False,22
-5e59c235-0db4-4a44-9307-c0394e6b9a8c,Mario,Kane,otaylor@example.org,,Canada,Vancouver,09-12-1957,False,51
-33ea1a63-4e95-4deb-b8e0-b04430050962,Tiffany,Huff,weavertonya@example.com,"Sat, 20 May 2023 09:24:13 ",Japan,Tokyo,11-12-1991,True,89
-9317001d-e51e-482b-beb7-0d82f972761d,Robin,Ross,barnesconnor@example.org,2017-08-20T20:30:57,UK,Leeds,06-03-1963,True,67
-6af5f430-b5d5-4319-9162-6002248b799f,Jeffrey,Larson,stanleyallen@example.net,"Mon, 23 May 2022 23:24:02 ",Netherlands,The Hague,09-29-1991,False,61
-a5c2739a-cea6-4c15-b7a3-6307e426d1a9,John,Waters,luke80@example.com,2022-09-01T04:02:27,Japan,Tokyo,26-05-2005,False,39
-a309ea60-8b0a-4e89-ba0e-44674febfee2,Mario,Martin,snyderamanda@example.org,2024-08-15T13:45:09,UK,Leeds,06-26-1953,True,80
-86554203-d012-4fce-90fb-f4596937c27c,Bryan,,hhale#example.net,2021-02-23T18:03:08,Sweden,Malmo,04-08-1948,False,99
-d193c66b-1f7d-4133-83b5-68df1a245b52,Linda,Soto,rhodesjulia@example.org,"Sun, 09 Jul 2023 12:25:59 ",Spain,Barcelona,1986-01-12,False,99
-226f192f-69b9-48d2-a945-b70583308909,Wendy,Graham,patrickmichael$example.com,"Wed, 01 Mar 2023 09:51:35 ",UK,London,2005-09-22,False,16
-2a94734e-261e-4acf-8ef6-e91163346130,Aaron,Kane,alex07@example.net,2018-04-13T04:06:47,South Africa,Cape Town,02-05-1965,False,22
-4dab2ece-edbc-4ff3-a9af-04540223b67d,Patricia,Duran,danny63&example.com,2017-04-18T12:55:26,Germany,Cologne,10-02-1990,False,67
-f881ec1a-edb5-4ea8-95d5-a69d693059e5,Charles,Mckinney,john58@example.org,2016-09-13T07:01:15,B!ra&zil,Sao Paulo,1948-05-26,True,39
-125491ba-5cb5-47c9-88ff-7a321bbf401d,Bridget,Garza,sjohnson@example.com,2019-09-08 17:46:57,Germany,Cologne,06-12-1946,False,54
-8f00e042-2012-4a64-9d0f-43e0bac5208f,Kayla,Jones,mmartinez@example.net,"Fri, 06 Dec 2019 12:07:43 ",Japan,Sapporo,07-06-1967,False,10
-5429612e-ce79-4a52-b86d-c766c792d11e,Thomas,Montgomery,cwhite@example.org,2017-11-17T02:17:11,Italy,Milan,11-07-1957,True,84
-e83e74db-e587-43c3-863e-604d3502e09d,Robert,Wilson,pricerichard@example.net,2018-05-15T11:54:46,South Africa,Port Elizabeth,12-24-1945,False,14
-e7a99608-53a3-48fc-b16b-9bb5c00e2a87,James,Gaines,mhughes@example.net,2024-12-08T00:42:26,Italy,Florence,21-09-1953,True,59
-5be6b0b1-37a9-4899-970c-5791f6445cce,Annette,Gomez,yoderdaniel@example.net,2020-12-16T22:34:13,Brazil,Brasilia,2001-03-07,True,
-e0f831f6-599a-4f94-a81f-c9100e1111ef,Jamie,Butler,carpenterjessica@example.org,2016-06-14T08:25:28,UK,Birmingham,12-26-1979,False,82
-c6c464bd-b54b-4377-a799-55b94768a273,Joseph,Finley,caseymark@example.org,2023-07-06T18:33:00,Germany,Berlin,1950-10-05,True,40
-e8e866df-8237-45e2-93de-71e9b86a4a66,Leonard,Ibarra,juliahoffman@example.com,2012-16-25 19:01:09,France,Lyon,01-26-1953,False,27
-181f9cf6-516f-4885-a469-bba6c0cc9531,Elaine,Brown,zhood@example.net,2016-10-23T03:23:25,USA,Chicago,06-04-1967,False,22
-aefb7119-ff0d-405e-98f6-1a3160a0288a,Carly,Lewis,andreavaughan@example.org,2016-06-27T08:11:10,Sweden,Uppsala,08-30-1945,False,90
-6e6c67c3-e581-40bc-b3f0-d55281dd807e,Gregory,Klein,katie15@example.org,"Mon, 02 May 2022 06:45:13 ",Spain,Bilbao,12-06-1958,True,26
-1d493a22-5a47-4186-acf1-e87803a17878,Andrea,Peters,robert34@example.net,"Mon, 14 Jul 2025 05:48:07 ",Netherlands,Rotterdam,12-07-1950,True,54
-9f8628a7-4d42-472b-9007-1ece43b8f788,Mary,Holder,tamarasalas@example.org,2019-12-21T14:24:23,Sweden,Stockholm,01-28-1984,False,39
-47787b48-833d-4bf1-a511-a6debec8b08d,Ann,Gonzalez,cynthia02@example.net,2023-03-22 05:11:48,Sweden,Stockholm,09-17-1997 GMT+3,False,92
-65475240-fbe7-41ea-9f41-66e9aded7e40,Jennifer,Garcia,christopher71@example.net,2017-01-08T09:11:14,Poland,Wroclaw,21-01-1986,True,-5
-f0336dec-2d30-40b8-bacb-5ad5a0e85702,Eric,Browning,melaniestevens@example.org,2024-12-23T08:43:31,Sweden,Stockholm,27-10-2004,False,35
-ebeebcac-8acd-4af4-bf7f-846021cf9b6b,Richard,Barnes,carl50@example.com,"Sat, 23 Oct 2021 23:07:42 ",USA,Miami,05-05-1964,True,21
-5fb8da72-ad04-4bc0-ba48-a6a2327ddea2,Sonia,Cowan,jennifergarcia@example.com,2017-08-18T20:19:06,P()~oland,Gdansk,16-03-1957,False,90
-e4e0802b-f5f9-4c66-b151-3d7f5fe4ed69,Dwayne,Decker,lestrada@example.net,2023-11-09 10:18:58,Sweden,Uppsala,08-06-1947,False,42
-6b5ad637-13bd-44cd-9481-991a8fc9963b,Ama$nda,Suarez,,2024-03-09 01:35:29,Brazil,Brasilia,07-28-1970,True,48
-f5b2be44-3f7c-4caa-a71f-1ae09df8afde,Amy,Herrera,andrewrosario@example.net,"Tue, 13 Aug 2024 03:36:43 ",Canada,Toronto,10-08-1951,False,26
-2fc40610-8c82-4073-b65a-54091e58f151,Natalie,farley,rmorton@example.net,2017-02-08T10:21:56,Romania,Cluj-Napoca,1972-09-29,True,24
-ba3d3814-b9ce-416b-8ca1-5d1f62b6f04c,Christopher,Allen,krystal32@example.net,2018-06-21 05:50:01,Italy,Rome,1963-11-08,True,33
-28a0517a-4666-4b2c-870a-595780cb0b57,Tracey,Moore,evansjeffrey@example.org,2019-06-04T17:28:46,Italy,Naples,30-12-1950,False,46
-2ecee41b-71d6-426b-8e8b-6f9c3748a715,Michael,Haas,jeanne69@example.net,2023-07-08 11:51:31,Spain,Seville,01-11-2005,False,58
-f4dc6b7f-2399-4e50-9d0e-9468f294d74c,Adam,Lee,grace78@example.org,2017-02-02 07:22:51,Sweden,Gothenburg,1994-04-01,False,76
-be15d8df-632c-4a5b-a259-54bca70b0bb4,Amanda,Thompson,hughesmisty@example.com,2020-06-23 01:21:29,,Tokyo,07-09-1998,True,31
-dc25f2d7-8d18-4aaa-b8b5-4b6629647a18,Nicole,Reyes,ogregory@example.net,"Fri, 23 Jun 2017 07:45:23 ",Italy,Florence,07-05-1967,True,36
-0579bebe-f16f-4e6b-a1de-53915922f6e4,Tiffany,Stewart,isloan@e@xa&mpl*e.net,"Fri, 05 Jul 2024 14:18:17 ",Spain,Barcelona,12-06-1994,False,79
-d65627c4-d4da-4c83-a85b-c335c6ee950f,Robert,Young,krystalwilson@example.net,2017-08-02 14:29:33,Japan,Tokyo,1983-05-06,True,9
-518ab74c-b0b7-4251-b340-a83b3faee29b,Renee,Daugherty,rachelmyers@example.org,2018-01-18T19:20:34,Japan,Nagoya,26-01-1970,False,76
-330fcfbc-3edd-49ce-b957-9629eda3d48a,Christopher,Novak,sarah47@example.com,2020-07-01 00:51:23,Australia,Sydney,1955-11-04,False,1
-259d40a1-f89b-4d91-a1dc-41362c4a404c,Gregory,Herrera,rrichardson@example.com,"Thu, 28 Jun 2018 11:57:58 ",Sweden,Vasteras,02-03-1983,False,97
-f8a1aa8b-1904-4a27-ab38-8d54f3c214e1,Alan,Mccoy,smartinez@example.com,"Sat, 06 Jan 2024 01:41:48 ",Canada,Ottawa,05-10-2000,False,160
-f581571a-15be-41fd-9e70-023591d7007f,Jeffrey,Stevenson,petersanna@example.org,2017-02-11T13:07:19,Poland,Warsaw,16-06-2003,False,29
-160835a2-4efb-47f1-bac3-8cad78342e7b,Charles,Baxter,cynthia28@example.net,2017-07-24T02:04:51,Poland,Gdansk,19-04-1954,False,26
-3e3efde2-e3fb-4273-9928-66053e69eb20,Christie,Robbins,evanssamantha@example.org,"Wed, 09 Feb 2022 08:35:16 ",Japan,Osak@a,04-02-1948,True,88
-c53dca96-a44f-49bc-9f05-ee7e11f8bfd0,Gail,Hickman,frankwhite@example.com,2020-07-23T06:41:32,Poland,Krakow,07-12-1956,True,19
+11c5ddc5-d2e6-4426-b215-d4e21ae6b9c7,Cody,Blevins,larryjoseph@example.com,"Tue, 29 Nov 2022 02:20:50 ",South Africa,Johannesburg,11-05-2003,False,67
+cd5547b9-ed01-4238-84fb-cbc0aeaf48be,Kevin,Lynch,austinkeith@example.net,"Tue, 07 Jun 2022 11:41:47 ",Spain,Barcelona,1964-07-12,False,22
+7b5c5ce6-94bd-4286-bf0f-00c9ecbc4efb,Jason,Griffin,kevin15@example.org,"Wed, 12 Jul 2017 08:58:46 ",Italy,Florence,24-02-1953,False,7
+b52588f5-496b-49db-94ed-a22bc6396d34,James,Campbell,kendramontoya@example.net,"Wed, 07 Aug 2024 14:03:28 ",Germany,Frankfurt,15-01-1952,False,11
+be7da022-07aa-4e1b-97cb-034b7eddbf35,Andrea,Rosario,coreydavila@example.org,2019-07-19 11:22:18,France,Nice,1962-01-24,False,77
+214b9873-e5ff-4d06-81f9-d6d640319c78,Derek,Carr,,"Tue, 05 Oct 2021 00:17:15 ",Germany,Hamburg,03-14-1958,False,72
+aa79b371-cd61-4e4e-afd3-36b0837c44d6,Yvonne,Kim,charris@example.com,2019-03-14 16:39:01,Canada,Toronto,1950-03-21,True,98
+19b0379a-7533-4bfc-82a0-62ecfab38c93,Meredith,Gonzales,plindsey#example.com,"Fri, 09 Aug 2019 09:50:25 ",Germany,Munich,1948-05-24,False,62
+9f48400c-fba7-4363-9a32-a96dbff2a528,Madison,Vasquez,ronaldcarey@example.com,2018-08-31 06:15:00,USA,New York,1987-04-10,False,91
+e549bc93-d852-4d63-a7c5-3bc8048f9f50,Megan,Bradford,mullenstephanie@example.org,2023-12-13 00:43:04,Brazil,Sao Paulo,1946-08-04,False,27
+8e8ac2d6-289e-4d5c-a2e0-6e5a46920937,Kathryn,Powell,trevor72@example.com,2022-09-04T04:24:37,Japan,Kyoto,02-28-1998,False,26
+bb165c92-10c1-4605-8be7-2fd919899595,Robert,Vaughn,zunderwood@example.net,2023-05-03 03:54:14,Poland,Wroclaw,13-08-1977,False,72
+5262e37e-0b6a-4a9b-8f76-c534dba84a02,Patrick,CURTIS,cochranaaron@example.org,2023-12-01 21:45:24,Canada,M@ontr&ea&l,11-23-1979,False,54
+f3de800c-1492-4564-b567-c10971805d57,Jason,Rodriguez,emmathompson@example.org,2025-06-14 16:21:16,France,Paris,30-10-1969,False,6
+15cf586b-9dc9-4a0e-a75b-01e5b0d2c57a,Jenna,Tran,hernandezjennifer@example.com,"Fri, 26 Aug 2016 19:56:31 ",Romania,Timisoara,07-31-1971,False,88
+dada1afc-0ea8-4838-934a-c20885800f0a,Stephanie,Johnson,melissapatrick@example.net,2016-03-19 02:26:19,Japan,Tokyo,05-16-1977,False,40
+48c7f3cd-5b94-4859-9235-a8f5c1c1f4bd,Michael,Wilkerson,zscott@example.com,2023-07-26T00:39:06,South Africa,Cape Town,1982-09-22,False,8
+f77ead05-5c61-44b7-bbbe-2c50a0a4ed5d,John,Smith,wthompson@example.org,"Mon, 18 Sep 2023 19:17:11 ",Brazil,SALVADOR,30-09-1965,True,97
+cdb24694-060e-476e-baf4-2f2704922215,DAVID,Mills,krivera@example.org,"Fri, 21 Sep 2018 02:48:15 ",France,Nice,14-10-1948,False,82
+d18dd490-7dc0-40b1-9b00-e8adb0787741,Tina,Sanchez,charles90@example.org,2020-09-18T01:26:08,Sweden,Stockholm,1989-12-09,True,61
+bb5551fc-435a-4f1e-ae38-6527707200db,Elijah,Edwards,tespinoza@example.com,"Sun, 21 Feb 2021 05:47:30 ",Spain,Madrid,12-06-1994,True,22
+cc5b282f-a495-403c-ab85-6ce54466d136,Sherry,A~ndrews,christophergonzalez@example.com,"Fri, 11 Dec 2015 02:16:19 ",Japan,Nagoya,27-03-1948,True,43
+3a7ec4dc-5257-455e-89ef-6eee866bf404,Bryan,Webster,kathryn56@example.net,2019-11-06T12:44:35,Japan,Nagoya,04-01-1980,True,65
+692c2178-3738-4a72-9388-6b0a7d5fa5c6,Christopher,Wilson,taylordavidson@example.org,"Sat, 02 Apr 2016 05:26:20 ",Japan,Sapporo,2002-10-21,False,10
+5269ab59-6573-4963-9a5d-f3963cb51a03,Kimberly,Spencer,nicholaswilliams@example.org,"Wed, 27 Mar 2024 05:35:25 ",Italy,Florence,1951-10-10,False,19
+783cdf13-8b2d-46ce-a2a3-eed84a616918,Christine,Bishop,kristyhickman@example.com,2023-01-05 17:03:59,UK,Leeds,1976-05-28,True,90
+3fabc904-29f3-438a-8c53-5e860425c429,Anna,Bryant,nelsonbobby@example.org,"Fri, 10 Jan 2020 01:38:38 ",Spain,Seville,29-06-1986,False,-93
+dbc97a96-1bf8-4c55-b681-43012f53598b,James,Coleman,delgadomartin@example.net,"Mon, 24 Jan 2022 21:59:05 ",Italy,Na@ples,02-07-2002,False,91
+b4a58e22-c09c-4d22-958f-d6eec49ac480,Melissa,Horn,zcollins@example.org,"Mon, 18 Jul 2016 14.48.06 ",Italy,Milan,1984-11-09,True,95
+49641ced-d19b-4486-b216-02501c6cb218,Jason,Bennett,gwilkerson^!@exampl&e.net,2024-06-09T06:32:29,Brazil,Sao Paulo,1984-01-16,False,93
+e9aba3da-f629-4329-b83f-acb08147d13d,Richard,Salazar,uhernandez@example.com,2003-19-09 15:26:46,Australia,Sydney,09-30-1964,False,-26
+90a9bd54-3410-41d8-af34-9739c2f788e5,Anthony,Rush,jenniferstokes@example.net,2020-10-12 17:52:37,Romania,Timisoara,17-02-1966,False,21
+6a97a0a1-bf21-486e-a685-019c6f145593,Amy,Rivera,clarkkevin@example.org,2023-06-21T07:06:46,UK,london,05-26-1979,True,67
+d8c9adf1-8eed-4be9-98b8-e2f9f78eab2b,Sandra,Pruitt,nmiles@example.org,2018-11-23T05:30:21,USA,Chicago,1998-08-28,False,20
+0075f4bf-4b04-4a12-abfe-8af1ab75d0e6,Lisa,Wells,andrewhorne@example.com,2019-06-05T03:24:53,Netherlands,The Hague,12-05-1947,True,172
+6cd30169-2da0-4fd9-ae65-90c2b548812d,Kendra,Silva,eric48@example.com,2018-10-07T10:48:18,Japan,OSAKA,1985-03-21,False,19
+0368a72b-fb03-458b-891e-3c4c98201b81,Shannon,Johnson,margaret41@example.com,2021-08-16T14:31:46,Italy,Rome,23-07-1972,True,31
+c5a41626-cfc5-4807-bf15-a30e5c6cf58e,Cheryl,Herman,ghardin@example.net,2021-12-29 03:09:23,UK,Birmingham,28-04-1976,False,81
+08203931-59d3-4eed-9c94-69eda3202943,Jeffrey,MCDOWELL,henry24@example.com,2017-05-18 11:34:04,Germany,Hamburg,09-26-1999,True,40
+c72d0b26-1caa-4587-aa65-f84ae9f2a4d1,Jennifer,Hart,johnsonmark@example.com,2020-07-18 02:08:54,Japan,Kyoto,07-01-1956,False,45
+5a6401d5-6dba-4136-ad73-2a1fe1ed114d,Stephanie,perry,,2017-05-11 05:30:46,South Africa,Cape Town,05-18-1953,False,21
+0fd06bc1-c8ac-4f57-a0c3-7eeaf835c333,Douglas,Richard,kjohnson@example.net,2017-09-13T00:31:31,South Africa,Durban,1955-02-10,False,85
+054d9101-bce5-4b53-968a-b817cc817a73,Jenna,White,rfernandez@example.org,,Spain,Valencia,12-31-1953,False,76
+45d69d8a-bc90-4ea9-a55f-f80e3d31ea0c,Mandy,Burnett,,2021-10-11T22:25:40,USA,Chicago,01-28-1967,False,22
+a96f3bda-b54e-4503-998b-a24d77a7c1fe,Dorothy,Martin,brendareyes@example.net,2021-11-20 15:42:44,South Africa,Johannesburg,31-01-1997,False,100
+fc69978b-785e-4995-844b-058063e20f59,Lisa,Jones,lkeith@example.org,2016-06-17T07:18:51,Braz!i*l,Salvador,12-09-1962,False,24
+4c517652-5dcd-48e2-b4f1-d586af338c64,Traci,Hart,jonesnicole@example.com,2021-04-02 15:52:57,Germany,Hamburg,12-31-1992,False,22
+f9a5c42e-6e70-4f64-81aa-f0bb455b3e59,Cynthia,Robertson,kevinvaughn@example.org,2024-09-29T10:47:07,Netherlands,The Hague,17.02.1986,False,93
+f2b10402-3012-48c4-b91b-a56a24c9251b,Kristin,Cordova,kristine29@example.net,2021-02-03T07:35:08,Poland,Warsaw,14-08-1962,True,19
+05efe40c-b0db-4557-9a00-d0e37c8d5dc8,Melissa,Flores,qturner@example.com,"Sun, 13 Aug 2023 22:39:14 ",USA,Chicago,11-24-1962,True,57
+59aaf3e8-8f02-4872-9f2f-9e6aa94f2bc1,Marcus,Salas,rachelelliott@example.org,2020-12-05T01:32:44,Spain,Bilbao,12-30-1961,True,84
+d5ad42c2-2672-4bce-9335-dac7e3e4e59b,Keith,Phelps,melissa10$example.org,"Sun, 14 Aug 2022 23:44:59 ",France,Lyon,1950-07-20,False,32
+dbd78db2-e463-4c3b-a056-8852434091fe,Bradley,Davis,millerbarbara@example.org,"Mon, 27 May 2024 00:18:48 ",France,Nice,09-30-1999,False,14
+e9a043f9-a0ff-439a-9be3-6271f159a1e9,Leonard,Taylor,yking@example.org,2025-06-28T07:25:02,Netherlands,Utrecht,29-12-1998,False,4
+e8bd36fe-19af-4e9e-91d3-0a0f99e73edb,Mary,Walker,washingtoneric@example.com,2017 02 02T09 12 10,Japan,Kyoto,1976-06-04,False,72
+defcd478-e964-4637-adfa-d960f1f84377,Brianna,Rivera,youngcaitlin@example.net,2020-03-21T07:40:58,South Africa,Port Elizabeth,05-30-1973,False,73
+1f458912-39f8-4b12-b0e4-aa7ac887094c,Sarah,Carroll,richardcarpenter@example.org,"tue, 03 aug 2021 11:50:10 ",UK,Leeds,01-30-1952,False,11
+ddc0d87f-ac66-4542-804f-d4c32f0c61b4,Karen,Huber,xdunn@example.net,2018-01-25 13:35:58,Spain,Bilbao,1982-02-13,True,53
+d84c4af2-4f2b-48b7-83d5-6e4b7bb9464d,Scott,smith,zbaker@example.net,2019-10-24T05:57:34,Poland,Krakow,05-18-1997,False,25
+32994ac6-68f6-479a-8c11-29583358ebed,Mark,Smith,natashafriedman@example.com,"Wed, 15 Nov 2017 01:46:15 ",Australia,Sydney,28-03-1968,True,7
+ebd5998a-62b7-44ad-989e-e0e27201e982,Stephanie,Jones,jessicalopez@example.org,2020-05-26T15:33:43,Sweden,Malmo,02-26-1977,False,70
+0bf7532f-2ef4-498d-b2ca-090945de5c4c,Roger,Thomas,monicacharles@example.com,2016-09-02T10:08:47,GERMANY,Frankfurt,09-09-2001,,75
+e005290e-8c69-424b-83e6-5c42e53e0d13,Kristi,Mcdowell,bishopcynthia@example.net,2016-04-20T10:11:46,Italy,Florence,08-05-1967,False,27
+b054fc1c-3632-4e2f-87c2-b6f7651bf9b7,Cynthia,Holder,angela05@example.com,"Thu, 30 Jan 2025 18:01:13 ",Germany,Munich,01-31-1973,False,74
+ca9a6d8b-ebbd-4a15-8424-19f788c488ee,Renee,Orozco,andrea56@ex!a&mple.com,2023-07-14T23:42:23,Canada,Montreal,16-04-1966,False,33
+0d749626-1be8-4311-964b-47d6f8b1d8b6,Valerie,Drake,davidmccarthy@example.org,2021-07-22T14:33:40,Sweden,Gothenburg,07-06-1951,True,24
+cb322697-3b26-4699-b87f-bb34b03d4894,Wendy,Snyder,jonathan27@example.com,2021-11-04 20:58:22,Brazil,Fortaleza,09-21-1994,True,83
+d203a2d3-f302-48e3-ba23-6a722c31501d,Randy,Joyce,carl08@example.com,2021-12-16 06:09:43,Poland,Gdansk,03 01 1962,False,29
+3bf5442b-5486-4130-aa53-490cd9d3add2,Zachary,Green,michael48@example.org,2024-05-16T04:30:57,Spain,Madrid,10-04-1982,True,50
+e83bdbb0-caf1-48e9-b1f8-6e2db5457322,Ashley,Blake,hartmansusan@example.net,2015-08-10T07:32:33,Poland,Warsaw,1948-12-29,False,89
+ba829fd3-95e3-492e-8ccb-5da2c401ea2c,David,Warren,jonesmonica@example.net,"Tue, 17 Mar 2020 14:54:22 ",Spain,Seville,10-16-1965,False,4
+2b2212fc-039c-47ca-809c-cfe71b2112fb,Kevin,Leblanc,albert06@example.org,"Fri, 19 Jun 2020 06:20:55 ",Sweden,Vasteras,1966-02-05,True,72
+41aae15a-b8b5-4a7f-a324-c3e1a327d0eb,Marcus,Griffin,phillipsalexandra@exa$mple.net,2020-11-14T07:01:16,SWEDEN,Vasteras,19-05-1957,False,37
+c0e1b7e1-81c8-42c7-8caa-82c1a1e34fe9,Debra,Payne,jcruz@example.com,2023-08-16 21:05:14,USA,New York,23-09-1967,False,25
+8234fcb2-7eac-4b12-9877-c07cbc221a11,Jason,Myers,gjones@example.com,2020-07-23T14:20:02,Poland,Krakow,1963-06-01,False,89
+39958abc-f21e-4e33-9d27-460c79185985,Ryan,Scott,johngarcia@example.net,2002-19-03 11:30:44,France,Toulouse,1952-09-14,False,71
+997fdbef-68b7-4a98-977d-5e691c7acd81,Sylvia,Thompson,iboyd@example.org,2022-02-10T11:37:10,France,Nice,24-02-1951,False,15
+f8405f29-e8f6-47c2-8852-addac53d5f09,,Martin,leslie35@example.net,2018-05-17T20:53:42,Italy,Naples,03-23-1978,False,83
+c456e5bf-8c0f-4906-9d9a-5c76b08caf83,Mary,Chung,yjohnson@example.org,"Sat, 17 Sep 2022 06:48:06 ",Australia,Melbourne,03-29-1981,False,85
+aa1fce39-0a54-43ce-bf89-36c934e88526,Richard,Sullivan,hughesveronica@example.com,2021-07-28 18:22:10,Poland,Krakow,02-12-1998,True,3
+950d4423-78c4-4e52-ba31-e0a55e46c7eb,Felicia,Hubbard,wallacecathy@example.net,"Wed, 01 Apr 2020 06:38:16 ",Australia,Adelaide,21-03-1993,False,27
+52184f04-2cf6-4ed4-a0a9-e2b8ec4a930c,Amber,Simpson,karendowns@example.org,2017-05-24 18:01:36,Brazil,Brasilia,29-07-1987,True,82
+ba9dead5-ed64-486a-b10c-d65fa5b792f6,Monica,Smith,meganreynolds@example.com,"Sun, 21 Nov 2021 02:12:36 ",Spain,Bilbao,10-27-1988,False,94
+c9330c96-c438-4400-9d2a-df2df8584f12,Amanda,Hill,jason41@example.com,2022-04-11T02:12:37,Japan,Sapporo,12-03-1963,False,79
+1ca637a1-7a3f-4648-8a63-342c91cc71e5,Hannah,Hart,ndecker@example.org,2019-01-02 12:35:58,Japan,Nagoya,2006-06-17,True,69
+4c72e06b-77d1-4756-bf0d-49874ee3aa34,Joshua,Flores,bryan50@example.org,2024-04-11T00:27:31,Australia,Melbourne,05-12-1958,True,37
+90c29730-73c3-4ed8-8c73-5bc6a822383f,Tina,Hernandez,regina78@example.com,"Mon, 10 Feb 2025 17:46:11 ",Australia,Adelaide,1994-04-08,False,84
+9197d988-c7f2-4244-80f4-a0c3e7357cfa,Dale,Mcclure,sarahgarcia@example.org,2024-04-30 14:08:21,Brazil,Fortaleza,22-08-1996,False,71
+b728126b-70df-42db-ac23-01fbf324993a,Eric,Lee,lauren50@example.net,"Wed, 29 Dec 2021 09:02:57 ",Brazil,Sao Paulo,1974-02-02,False,
+21f06395-4772-4743-b38f-7bedfdef8cb3,Tracy,Cooper,heathermunoz@example.net,2020-05-27 22:07:42,USA,Houston,2006-05-31,False,3
+9c42b8f6-75f1-4333-bd51-a76d0cb19de6,Joseph,Willis,vsmith@example.net,2020-03-21T08:06:42,Sweden,Uppsala,06-05-1977,True,80
+ebd6d6b0-c146-4aed-9085-c0090848eb76,Michael,Garrison,banderson@example.org,2003-23-28T02:56:38,Sweden,Uppsala,08-06-1983,False,18
+81da9f44-3569-46f8-bd18-f3ca39d3f6c9,,Brown,kathleen99@example.org,2024-12-11T02:25:30,Netherlands,The Hague,12-09-1999,,70
+4eb24d09-a7e5-4b83-8a5f-20d646f08651,Caitlin,Harris,cartersergio@example.net,"Sat, 23 Mar 2024 07:07:10 ",Brazil,Rio de Janeiro,08-11-1977,False,62
+77fc9867-3d40-4a27-b2b7-1fe842008228,Marie,Mccann,andersondrew@example.org,2024-11-28T21:02:03,USA,New York,04-26-1950,False,61
+1e490ac4-fb4a-47fe-b52c-dff8e0c9f56d,Rachel,Alexander,christopher06@example.com,2020-05-14T03:28:03,Sweden,Gothenburg,23-04-1986,False,67
+db1c6d6a-52f3-4075-a07b-aa420bc965f9,Sean,Brown,parkercharlene@example.net,2022-01-19 06:11:00,Spain,Barcelona,17-02-1950,False,6
+50e1e5f0-59de-4729-b3d2-ab6e20e25b3d,Howard,Smith,ebarrett@example.org,2020-08-18T20:57:23,UK,Leeds,1950-10-20,False,4
+5e3e114a-3413-4938-b64a-894de4565cd6,Julia,Thompson,mario42@example.net,,Romania,Iasi,03-03-2006,False,10
+e8568774-ba09-4a45-8c13-76d6bbf1864f,Anthony,Hale,moorekristina@exa!mpl&e.net*,2020-09-03T00:11:55,Japan,Kyoto,2000-07-07,False,27
